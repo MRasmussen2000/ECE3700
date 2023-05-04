@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/mar570/home/1_verilog/2_operations/5_signed'
+let g:netrw_dirhist_2='/home/mar570/home/1_verilog/2_operations/5_signed/src'
+let g:netrw_dirhist_3='/home/mar570/home/2_rtl/2_communication/2_SPI_WRITE/src'
+let g:netrw_dirhist_4='/home/mar570/home/2_rtl/2_communication/3_UART_TX'
+let g:netrw_dirhist_5='/home/mar570/home/2_rtl/2_communication/3_UART_TX/src'
+let g:netrw_dirhist_6='/home/mar570/home/2_rtl/2_communication/4_UART_RX'
+let g:netrw_dirhist_7='/home/mar570/home/2_rtl/2_communication/4_UART_RX/src'
